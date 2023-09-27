@@ -10,6 +10,7 @@ class AddToCart : AppCompatActivity() {
         setContentView(R.layout.activity_add_to_cart)
 
         //TEST COMMENT
+        //testcommen2
 
 
     }
