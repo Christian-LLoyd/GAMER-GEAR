@@ -27,6 +27,7 @@
             android:id="@+id/_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/retrogaming"
             android:text="TextView"
             android:textStyle="italic"
             app:layout_constraintBottom_toBottomOf="parent"
